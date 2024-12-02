@@ -23,7 +23,7 @@
     "markdown-it-deflist": "^2.1.0",
     "markdown-it-footnote": "^3.0.2",
     "markdown-it-task-lists": "^2.1.1",
-    "prismjs": "^1.25.0",
+    "prismjs": "^1.27.0",
     "vue": "^2.6.12",
     "vue-class-component": "^7.2.6",
     "vue-property-decorator": "^9.1.2",
